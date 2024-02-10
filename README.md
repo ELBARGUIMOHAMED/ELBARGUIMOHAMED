@@ -1,63 +1,61 @@
+# Hi there, I'm MOHAMED ELBARGUI 👋 
 
-# GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMED ELBARGUI&theme=merke&show_icons=true)
+## Spring boot Developer, and Data Scientist !!
+-  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
+- 👀 I’m interested in :<br>
+        ☕ BackEnd <br>
+          &nbsp; &nbsp;✔️ Java : java doc | Core Java | POO | JDBC | IO | Jee  <br>
+          &nbsp; &nbsp;✔️ Java 8 : STREAM | LAMBDA EPRESSIONS | FUNCTIONAL INTERFACES | OPTIONAL | DEFAULT | ... <br>
+          &nbsp; &nbsp;✔️ Spring : MVC | BOOT | DATA/JPA | SECURITY | MICROSERVICES | CLOUD | RESTFULL  <br>
+          &nbsp; &nbsp;✔️ Tools : MAVEN | GIT | GITHUB <br>
+          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
+          &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
+          &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
+          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | H2<br>
+          &nbsp; &nbsp;✔️ Others : LOMBOK | Hibernate <br>
+        🤖 Artificial Intelligence <br>
+          &nbsp; &nbsp;✔️ DATA MINING <br>
+          &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
+          &nbsp; &nbsp;✔️ DEEP LEARNING <br>
+          &nbsp; &nbsp;✔️ INFORMATION RETRIEVAL <br>
+        
+- 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
+- 📖 I’m currently learning everything 🤣 <br>
+- 👯 I’m looking to collaborate with other companies like freelance <br>
+- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
+- 📫 How to reach me : Email : sarabouraya95@gmail.com / Phone : +212 666 756 069 <br>
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&theme=merko&show_icons=true)
 
-# spouart.com - Mohamed Elbargui
+### 📕 Latest Papers About Computer Vision
 
-<p align="center">
-  🎨 [Your Logo Sticker]
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [Deep Learning based Neck Models for Object Detection: A Review and a Benchmarking Study](https://thesai.org/Publications/ViewPaper?Volume=12&Issue=11&Code=IJACSA&SerialNo=19)
+- [A WSM-based Comparative Study of Vision Tracking Methodologies](https://thesai.org/Publications/ViewPaper?Volume=12&Issue=8&Code=IJACSA&SerialNo=11)
+- [Object Detectors’ Convolutional Neural Networks backbones : a review and a comparative study](http://www.warse.org/IJETER/archives/archivesDetiles/?heading=Volume%209%20No.11%20(2021))
+- [Approaches to Video Real time Multi-Object Tracking and Object Detection: A survey](https://ieeexplore.ieee.org/abstract/document/9552095)
+- [Multi object tracking: a survey](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11878/118780I/Multi-object-tracking-a-survey/10.1117/12.2602901.full?SSO=1)
+<!-- BLOG-POST-LIST:END -->
 
-Welcome to spouart.com, the personal website of Mohamed Elbargui.
+### 💻 Top Programming Languages
 
-## About Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Mohamed Elbargui, a 21-year-old full-stack developer currently studying at OFPPT. I have a passion for web development and love creating visually appealing designs. My primary focus is on front-end technologies, and I also have experience with back-end development using PHP (Laravel), JavaScript (React.js), SQL databases, HTML, CSS, and cloud technologies.
+### Languages and Tools:
+<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 
-## Project Overview
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
-On spouart.com, you will find a diverse collection of my artistic work, including detailed drawings on various items such as jeans, hoodies, t-shirts, and more. I bring creativity to clothing by adding unique and personalized designs, making each piece a work of art.
+<img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
-Explore the gallery to witness the fusion of technology and artistic expression, as I leverage my skills in full-stack development to present a visually stunning showcase. Whether you're interested in fashion, technology, or the intersection of both, spouart.com offers a creative and engaging experience.
-
-Feel free to browse through the different sections and discover the artistry in everyday items. Your feedback and appreciation are invaluable as I continue to evolve and expand my creative endeavors.
-
-Visit [spouart.com](https://spouart.com) to explore the intersection of art and technology!
-
----
-
-## Technologies Used
-
-- Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-  - React.js
-
-- Backend:
-  - PHP
-  - Laravel
-
-- Database:
-  - SQL
-
-- Other:
-  - Cloud Technologies
-  - Python
-
-## My Work
-
-I specialize in creating websites for individuals and businesses. My goal is to deliver high-quality, responsive, and visually appealing web solutions. If you're interested in collaborating or need a website, feel free to contact me.
-
-## Contact
-
-<p align="center">
-  📧 [barguim99@gmail.com] &nbsp;&nbsp;
-  🐙 (https://github.com/ELBARGUIMOHAMED) &nbsp;&nbsp;
-  🔗 (www.linkedin.com/in/mohamed-elbargui-226613252)
-</p>
-
-Feel free to explore my projects and artwork on [spouart.com](https://spouart.com). Your feedback and collaboration opportunities are always welcome!
-
----
+<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" style="padding-right:10px;" />
