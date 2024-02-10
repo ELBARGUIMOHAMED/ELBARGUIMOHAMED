@@ -1,4 +1,4 @@
-# spouart.com - Mohamed Elbargui
+#  MOAHAMED ELBARGUI
 
 <p align="center">
   <img src="C:\Users\DESKTOP-MB\Downloads\spou logo.png" alt="spouart.com Logo" width="150">
