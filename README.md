@@ -49,8 +49,8 @@ I specialize in creating websites for individuals and businesses. My goal is to 
 
 <p align="center">
   📧 [barguim99@gmail.com] &nbsp;&nbsp;
-  🐙 [GitHub Sticker](https://github.com/ELBARGUIMOHAMED) &nbsp;&nbsp;
-  🔗 [LinkedIn Sticker](www.linkedin.com/in/mohamed-elbargui-226613252)
+  🐙 (https://github.com/ELBARGUIMOHAMED) &nbsp;&nbsp;
+  🔗 (www.linkedin.com/in/mohamed-elbargui-226613252)
 </p>
 
 Feel free to explore my projects and artwork on [spouart.com](https://spouart.com). Your feedback and collaboration opportunities are always welcome!
