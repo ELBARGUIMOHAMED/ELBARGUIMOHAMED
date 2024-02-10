@@ -14,6 +14,17 @@ I'm Mohamed Elbargui, a 21-year-old full-stack developer currently studying at O
 
 [spouart.com](https://spouart.com) is my personal website where I showcase my artwork and projects. As a full-stack developer, I combine my design skills with programming to create an immersive experience for visitors.
 
+On spouart.com, you will find a diverse collection of my artistic work, including detailed drawings on various items such as jeans, hoodies, t-shirts, and more. I bring creativity to clothing by adding unique and personalized designs, making each piece a work of art.
+
+Explore the gallery to witness the fusion of technology and artistic expression, as I leverage my skills in full-stack development to present a visually stunning showcase. Whether you're interested in fashion, technology, or the intersection of both, spouart.com offers a creative and engaging experience.
+
+Feel free to browse through the different sections and discover the artistry in everyday items. Your feedback and appreciation are invaluable as I continue to evolve and expand my creative endeavors.
+
+Visit [spouart.com](https://spouart.com) to explore the intersection of art and technology!
+
+---
+
+
 ## Technologies Used
 
 - Frontend:
