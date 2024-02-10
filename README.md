@@ -1,7 +1,7 @@
 # spouart.com - Mohamed Elbargui
 
 <p align="center">
-  <img src="C:\Users\DESKTOP-MB\Downloads\your-logo-sticker.png" alt="spouart.com Logo" width="150">
+  <img src="C:\Users\DESKTOP-MB\Downloads\spou logo.png" alt="spouart.com Logo" width="150">
 </p>
 
 Welcome to spouart.com, the personal website of Mohamed Elbargui.
