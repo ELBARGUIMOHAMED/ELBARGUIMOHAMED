@@ -5,20 +5,40 @@
 -  Hi 👋, I’m @ELBARGUIMOHAMED Full Stack Developer BackEnd & FrontEnd
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
-          &nbsp; &nbsp;✔️ Java : java doc | Core Java | POO | JDBC | IO | Jee  <br>
-          &nbsp; &nbsp;✔️ Java 8 : STREAM | LAMBDA EPRESSIONS | FUNCTIONAL INTERFACES | OPTIONAL | DEFAULT | ... <br>
-          &nbsp; &nbsp;✔️ Spring : MVC | BOOT | DATA/JPA | SECURITY | MICROSERVICES | CLOUD | RESTFULL  <br>
-          &nbsp; &nbsp;✔️ Tools : MAVEN | GIT | GITHUB <br>
-          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
-          &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
-          &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
-          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | H2<br>
-          &nbsp; &nbsp;✔️ Others : LOMBOK | Hibernate <br>
-        🤖 Artificial Intelligence <br>
-          &nbsp; &nbsp;✔️ DATA MINING <br>
-          &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
-          &nbsp; &nbsp;✔️ DEEP LEARNING <br>
-          &nbsp; &nbsp;✔️ INFORMATION RETRIEVAL <br>
+          # Full Stack Developer Skills
+
+## Java Stack
+- ✔️ Java: JavaDoc | Core Java | OOP | JDBC | IO | JEE
+- ✔️ Java 8: Streams | Lambda Expressions | Functional Interfaces | Optional | Default | ...
+
+## Spring Framework
+- ✔️ Spring: MVC | Boot | Data/JPA | Security | Microservices | Cloud | RESTful
+
+## Development Tools
+- ✔️ Tools: Maven | Git | GitHub
+
+## DevOps
+- ✔️ DevOps: Docker | Kubernetes | Jenkins
+
+## Software Design
+- ✔️ Design: UML | Design Patterns | Clean Code - SOLID Principles
+
+## Web Services
+- ✔️ Web Services: JSON | XML | YAML
+
+## Databases
+- ✔️ Databases: MySQL | MongoDB | H2
+
+## Other Technologies
+- ✔️ Others: Lombok | Hibernate
+
+## Artificial Intelligence
+- 🤖 Artificial Intelligence
+  - ✔️ Data Mining
+  - ✔️ Machine Learning
+  - ✔️ Deep Learning
+  - ✔️ Information Retrieval
+
         
 - 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
 - 📖 I’m currently learning everything 🤣 <br>
