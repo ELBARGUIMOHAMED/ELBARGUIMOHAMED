@@ -1,7 +1,7 @@
 # spouart.com - Mohamed Elbargui
 
 <p align="center">
-  🎨 Spouart
+  🎨 [Your Logo Sticker]
 </p>
 
 Welcome to spouart.com, the personal website of Mohamed Elbargui.
@@ -48,13 +48,11 @@ I specialize in creating websites for individuals and businesses. My goal is to 
 ## Contact
 
 <p align="center">
-  📧 [Barguim99@gmail.com  ] &nbsp;&nbsp;
-  🐙 [https://github.com/ELBARGUIMOHAMED] &nbsp;&nbsp;
-  🔗 [[LinkedIn Sticker](https://www.linkedin.com/pulse/20-best-private-instagram-viewer-apps-without-2024-shahid-saleem-yu4nf/)]
+  📧 [barguim99@gmail.com] &nbsp;&nbsp;
+  🐙 [GitHub Sticker](https://github.com/ELBARGUIMOHAMED) &nbsp;&nbsp;
+  🔗 [LinkedIn Sticker](www.linkedin.com/in/mohamed-elbargui-226613252)
 </p>
 
 Feel free to explore my projects and artwork on [spouart.com](https://spouart.com). Your feedback and collaboration opportunities are always welcome!
 
 ---
-
-**Note:** Replace the placeholder text inside the brackets (e.g., `[Your Logo Sticker]`, `[Email Sticker]`, `[GitHub Sticker]`, `[LinkedIn Sticker]`) with your own text or emojis to represent the stickers. This creates a more visually engaging and stylized presentation in your README.
