@@ -1,6 +1,6 @@
 # Hi there, I'm MOHAMED ELBARGUI 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMED ELBARGUI&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMEDELBARGUI&theme=merko&show_icons=true)
 ## Spring boot Developer, and Data Scientist !!
 -  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
 - 👀 I’m interested in :<br>
