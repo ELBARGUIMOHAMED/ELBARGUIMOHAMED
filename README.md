@@ -5,39 +5,35 @@
 -  Hi 👋, I’m @ELBARGUIMOHAMED Full Stack Developer BackEnd & FrontEnd
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
-## Full Stack Developer Skills
+# Full Stack Developer Skills
 
 ## Java Stack
-- ✔️ Java: JavaDoc | Core Java | OOP | JDBC | IO | JEE
-- ✔️ Java 8: Streams | Lambda Expressions | Functional Interfaces | Optional | Default | ...
+- ✔️ Java (JavaDoc, Core Java, OOP, JDBC, IO, JEE) | Java 8 (Streams, Lambda Expressions, Functional Interfaces, Optional, Default, ...)
 
 ## Spring Framework
-- ✔️ Spring: MVC | Boot | Data/JPA | Security | Microservices | Cloud | RESTful
+- ✔️ Spring (MVC, Boot, Data/JPA, Security, Microservices, Cloud, RESTful)
 
 ## Development Tools
-- ✔️ Tools: Maven | Git | GitHub
+- ✔️ Tools (Maven, Git, GitHub)
 
 ## DevOps
-- ✔️ DevOps: Docker | Kubernetes | Jenkins
+- ✔️ DevOps (Docker, Kubernetes, Jenkins)
 
 ## Software Design
-- ✔️ Design: UML | Design Patterns | Clean Code - SOLID Principles
+- ✔️ Design (UML, Design Patterns, Clean Code - SOLID Principles)
 
 ## Web Services
-- ✔️ Web Services: JSON | XML | YAML
+- ✔️ Web Services (JSON, XML, YAML)
 
 ## Databases
-- ✔️ Databases: MySQL | MongoDB | H2
+- ✔️ Databases (MySQL, MongoDB, H2)
 
 ## Other Technologies
-- ✔️ Others: Lombok | Hibernate
+- ✔️ Others (Lombok, Hibernate)
 
 ## Artificial Intelligence
-- 🤖 Artificial Intelligence
-  - ✔️ Data Mining
-  - ✔️ Machine Learning
-  - ✔️ Deep Learning
-  - ✔️ Information Retrieval](https://es.tv96.cc/)
+- 🤖 Artificial Intelligence (Data Mining, Machine Learning, Deep Learning, Information Retrieval)
+
 
         
 - 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
