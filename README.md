@@ -1,3 +1,8 @@
+
+# GitHub Stats
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&theme=dark&show_icons=true)
+
 # spouart.com - Mohamed Elbargui
 
 <p align="center">
