@@ -37,7 +37,7 @@
   - ✔️ Data Mining
   - ✔️ Machine Learning
   - ✔️ Deep Learning
-  - ✔️ Information Retrieval
+  - ✔️ Information Retrieval](https://es.tv96.cc/)
 
         
 - 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
