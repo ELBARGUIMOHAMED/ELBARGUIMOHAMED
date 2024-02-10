@@ -1,42 +1,46 @@
-# Project Title
+# spouart.com - Mohamed Elbargui
 
-Brief description or tagline for your project.
+Welcome to spouart.com, the personal website of Mohamed Elbargui.
 
-## Table of Contents
+## About Me
 
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+I'm Mohamed Elbargui, a 21-year-old full-stack developer currently studying at OFPPT. I have a passion for web development and love creating visually appealing designs. My primary focus is on front-end technologies, and I also have experience with back-end development using PHP (Laravel), JavaScript (React.js), SQL databases, HTML, CSS, and cloud technologies.
 
-## Overview
+## Project Overview
 
-Provide a high-level overview of your project. Mention its purpose, key features, and any other relevant information.
+[spouart.com](https://spouart.com) is my personal website where I showcase my artwork and projects. As a full-stack developer, I combine my design skills with programming to create an immersive experience for visitors.
 
-## Features
+## Technologies Used
 
-List and briefly describe the main features of your project.
+- Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
 
-## Getting Started
+- Backend:
+  - PHP
+  - Laravel
 
-Provide instructions on how to set up and run your project locally.
+- Database:
+  - SQL
 
-### Prerequisites
+- Other:
+  - Cloud Technologies
+  - Python
 
-List any software, tools, or dependencies that need to be installed before running your project.
+## My Work
 
-### Installation
+I specialize in creating websites for individuals and businesses. My goal is to deliver high-quality, responsive, and visually appealing web solutions. If you're interested in collaborating or need a website, feel free to contact me.
 
-Step-by-step guide on how to install your project.
+## Contact
 
-```bash
-# Example installation steps
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
+- Email: barguim99@gmail.com
+- GitHub: [ELBARGUIMOHAMED](https://github.com/ELBARGUIMOHAMED)
+- LinkedIn: [Mohamed Elbargui](https://www.linkedin.com/in/mohamed-elbargui/)
+
+Feel free to explore my projects and artwork on [spouart.com](https://spouart.com). Your feedback and collaboration opportunities are always welcome!
+
+---
+
+**Note:** The provided email and GitHub links have been incorporated into the README. Customize further if needed.
