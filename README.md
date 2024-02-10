@@ -40,7 +40,7 @@
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
-- 📫 How to reach me : Email : sarabouraya95@gmail.com / Phone : +212 666 756 069 <br>
+- 📫 How to reach me : Email : barguim99@Gmail.com / Phone : +212 0708275282 <br>
 
 
 ### 📕 Latest Papers About Computer Vision
