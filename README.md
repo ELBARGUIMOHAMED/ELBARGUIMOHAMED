@@ -1,7 +1,7 @@
 # spouart.com - Mohamed Elbargui
 
 <p align="center">
-  🎨 [Your Logo Sticker]
+  🎨 Spouart
 </p>
 
 Welcome to spouart.com, the personal website of Mohamed Elbargui.
@@ -48,9 +48,9 @@ I specialize in creating websites for individuals and businesses. My goal is to 
 ## Contact
 
 <p align="center">
-  📧 [Email Sticker] &nbsp;&nbsp;
-  🐙 [GitHub Sticker] &nbsp;&nbsp;
-  🔗 [LinkedIn Sticker]
+  📧 [Barguim99@gmail.com  ] &nbsp;&nbsp;
+  🐙 [https://github.com/ELBARGUIMOHAMED] &nbsp;&nbsp;
+  🔗 [[LinkedIn Sticker](https://www.linkedin.com/pulse/20-best-private-instagram-viewer-apps-without-2024-shahid-saleem-yu4nf/)]
 </p>
 
 Feel free to explore my projects and artwork on [spouart.com](https://spouart.com). Your feedback and collaboration opportunities are always welcome!
