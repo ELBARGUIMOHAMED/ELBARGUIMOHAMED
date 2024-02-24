@@ -7,39 +7,19 @@
         ☕ BackEnd <br>
 # Full Stack Developer Skills
 
-## Java Stack
-- ✔️ Java (JavaDoc, Core Java, OOP, JDBC, IO, JEE) | Java 8 (Streams, Lambda Expressions, Functional Interfaces, Optional, Default, ...)
-
-## Spring Framework
-- ✔️ Spring (MVC, Boot, Data/JPA, Security, Microservices, Cloud, RESTful)
-
 ## Development Tools
-- ✔️ Tools (Maven, Git, GitHub)
-
-## DevOps
-- ✔️ DevOps (Docker, Kubernetes, Jenkins)
+- ✔️ Tools ( Git, GitHub)
 
 ## Software Design
-- ✔️ Design (UML, Design Patterns, Clean Code - SOLID Principles)
-
-## Web Services
-- ✔️ Web Services (JSON, XML, YAML)
+- ✔️ Design (UML, Design )
 
 ## Databases
-- ✔️ Databases (MySQL, MongoDB, H2)
-
-## Other Technologies
-- ✔️ Others (Lombok, Hibernate)
-
-## Artificial Intelligence
-- 🤖 Artificial Intelligence (Data Mining, Machine Learning, Deep Learning, Information Retrieval)
-
-
-        
+- ✔️ Databases (MySQL)
+   
 - 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
+- 🥅 2024 Goals: Learn more about Laravel <br>
 - 📫 How to reach me : Email : barguim99@Gmail.com / Phone : +212 0708275282 <br>
 
 
