@@ -16,7 +16,7 @@
 ## Databases
 - ✔️ Databases (MySQL)
    
-- 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
+- 🌱 I’m currently ofppt student in Developpment Digital<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2024 Goals: Learn more about Laravel <br>
