@@ -19,7 +19,7 @@
 - 🌱 I’m currently ofppt student in Developpment Digital<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2024 Goals: Learn more about Laravel <br>
+- 🥅 2024 Goals: Learn more about Laravel and React-Js <br>
 - 📫 How to reach me : Email : barguim99@Gmail.com / Phone : +212 0708275282 <br>
 
 
