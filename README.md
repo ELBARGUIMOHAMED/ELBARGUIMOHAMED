@@ -16,11 +16,19 @@ I am an aspiring DevOps Engineer bridging the gap between development and operat
   <img src="https://img.shields.io/twitter/follow/ELBARGUI02?logo=twitter&style=social" alt="Twitter Follow" />
 </p>
 
-### Skills
+### DevOps Skills & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,githubactions,git,bash,python,mysql,react,laravel,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,terraform,ansible,githubactions,jenkins,grafana,prometheus,nginx,git,bash,python&perline=15" />
+  </a>
+</p>
+
+### Web & Programming Background
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,laravel,mysql,mongodb,php,js,ts,vscode,vim&perline=15" />
   </a>
 </p>
 
@@ -41,6 +49,10 @@ I am an aspiring DevOps Engineer bridging the gap between development and operat
 ### Badges & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBARGUIMOHAMED&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBARGUIMOHAMED&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="150" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBARGUIMOHAMED&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Streak Stats" />
 </p>
