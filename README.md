@@ -5,9 +5,9 @@
 I am an aspiring DevOps Engineer bridging the gap between development and operations. I focus on automating workflows, containerization, and cloud infrastructure.
 
 - 🌍  I'm based in **Morocco 🇲🇦**
-- 🖥️  See my portfolio at [mohamed-elbargui.netlify.app](https://mohamed-elbargui.netlify.app)
-- ✉️  You can contact me at [Barguim99@gmail.com](mailto:Barguim99@gmail.com)
-- 🚀  I'm currently working on [Cloud CI/CD Pipelines](https://github.com/ELBARGUIMOHAMED)
+- 🖥️  See my portfolio at [**elbarguimohamed.github.io/Portfolio**](https://elbarguimohamed.github.io/Portfolio/)
+- ✉️  You can contact me at [**Barguim99@gmail.com**](mailto:Barguim99@gmail.com)
+- 🚀  I'm currently working on [**Cloud CI/CD Pipelines**](https://github.com/ELBARGUIMOHAMED)
 - 🧠  I'm learning **Kubernetes, Terraform, and AWS**
 - 🤝  I'm open to collaborating on **Open Source DevOps projects**
 
@@ -16,23 +16,23 @@ I am an aspiring DevOps Engineer bridging the gap between development and operat
   <img src="https://img.shields.io/twitter/follow/ELBARGUI02?logo=twitter&style=social" alt="Twitter Follow" />
 </p>
 
-### DevOps Skills & Tools
+### 🛠️ DevOps Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,terraform,ansible,githubactions,jenkins,grafana,prometheus,nginx,git,bash,python&perline=15" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,grafana,prometheus,git,bash,python&perline=14" />
   </a>
 </p>
 
-### Web & Programming Background
+### 💻 Programming & Web
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,laravel,mysql,mongodb,php,js,ts,vscode,vim&perline=15" />
+    <img src="https://skillicons.dev/icons?i=react,laravel,mysql,mongodb,php,js,vscode,vim,nginx&perline=14" />
   </a>
 </p>
 
-### Socials
+### 🌐 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-elbargui-226613252" target="_blank">
@@ -46,13 +46,12 @@ I am an aspiring DevOps Engineer bridging the gap between development and operat
   </a>
 </p>
 
-### Badges & Stats
+<br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBARGUIMOHAMED&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="150" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBARGUIMOHAMED&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Streak Stats" />
-</p>
+<!-- TERMINAL ANIMATION (REPLACEMENT FOR STATS) -->
+### 🚀 System Status
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=27E627&background=0D1117&center=true&vCenter=true&width=600&lines=%3E+Initializing+DevOps+Pipeline...;%3E+Running+Docker+Containers...;%3E+Provisioning+Infrastructure+with+Terraform...;%3E+Deploying+to+Kubernetes+Cluster...;%3E+System+Stable.+Ready+to+Code!+%F0%9F%9A%80" alt="Terminal Animation" />
+  </a>
+</div>
