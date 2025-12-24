@@ -1,36 +1,68 @@
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  
+  <h1>Hi there, I'm Mohamed ElBARGUI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<h1 align="center">Hi , I'm Mohamed ElBARGUI</h1>
-<h3 align="center">I’m Mohamed ElBARGUI  a seasoned full-stack developer passionate about crafting innovative web solutions.👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+  ### 🚀 Aspiring DevOps Engineer | Python Enthusiast | Automator
+  
+  <p>
+    <em>Transitioning from Full Stack Development to the world of Cloud & DevOps. <br> 
+    I bridge the gap between Code and Operations.</em>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elbarguimohamed&label=Profile%20views&color=0e75b6&style=flat" alt="elbarguimohamed" /> </p>
+  <p>
+    <a href="https://twitter.com/elbarguim" target="blank"><img src="https://img.shields.io/twitter/follow/elbarguim?logo=twitter&style=for-the-badge&color=08a0e9&labelColor=black" alt="elbarguim" /></a>
+    <a href="https://linkedin.com/in/mohamed-elbargui" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="Linkedin" /></a>
+    <a href="mailto:Barguim99@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/elbarguim" target="blank"><img src="https://img.shields.io/twitter/follow/elbarguim?logo=twitter&style=for-the-badge" alt="elbarguim" /></a> </p>
+  <br>
 
-- 🔭Here's my MyPortfolio **Mohamed Elbargui.netlify.app**
+</div>
 
-- 🌱 I’m currently learning **REACT JS / LARAVEL**
+---
 
-- 👯 I’m looking to collaborate on **A FULL STACK PROJECT**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/ELBARGUIMOHAMED](https://github.com/ELBARGUIMOHAMED)
+I am a passionate developer pivoting towards **DevOps**. With a strong foundation in coding (Full Stack), I am now focused on mastering infrastructure, automation, and containerization.
 
-- 📫 How to reach me **Barguim99@gmail.com**
+- 🔭 I’m currently working on: **Building CI/CD Pipelines with GitHub Actions**
+- 🌱 I’m currently learning: **Docker, Kubernetes & Infrastructure as Code (IaC)**
+- 👯 I’m looking to collaborate on: **Open Source DevOps Projects**
+- ⚡ Fun fact: **I write scripts to automate my daily tasks!**
 
-- 📄 Know about my experiences [resume.pdf](resume.pdf)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elbarguim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elbarguim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed elbargui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elbargui" height="30" width="40" /></a>
-<a href="https://instagram.com/_elbargui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_elbargui" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbarguimohamed&show_icons=true&locale=en&layout=compact" alt="elbarguimohamed" /></p>
+| **Category** | **Technologies** |
+|:---:|:---:|
+| **Operating Systems** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
+| **Containerization** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> *(Learning)* |
+| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| **CI/CD & Tools** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
+| **Web Frameworks** | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbarguimohamed&show_icons=true&locale=en" alt="elbarguimohamed" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbarguimohamed&" alt="elbarguimohamed" /></p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBARGUIMOHAMED&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBARGUIMOHAMED&theme=radical&hide_border=true" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=elbarguimohamed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="elbarguimohamed" />
+</div>
