@@ -5,7 +5,7 @@
 I am an aspiring DevOps Engineer bridging the gap between development and operations. I focus on automating workflows, containerization, and cloud infrastructure.
 
 - 🌍  I'm based in **Morocco 🇲🇦**
-- 🖥️  See my portfolio at [**elbarguimohamed.github.io/Portfolio**](https://elbarguimohamed.github.io/Portfolio/)
+- 🖥️  See my portfolio at [**elbarguimohamed.github.io/Portfolio**]([https://elbarguimohamed.github.io/Portfolio/](https://elbargui.vercel.app/))
 - ✉️  You can contact me at [**Barguim99@gmail.com**](mailto:Barguim99@gmail.com)
 - 🚀  I'm currently working on [**Cloud CI/CD Pipelines**](https://github.com/ELBARGUIMOHAMED)
 - 🧠  I'm learning **Kubernetes, Terraform, and AWS**
