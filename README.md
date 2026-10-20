@@ -1,120 +1,55 @@
-# Hi! I'm Mohamed ElBARGUI
+# Hi 👋 I'm Mohamed ElBARGUI
 
-### Full Stack Developer & DevOps Engineer in Progress
+### Junior DevOps Engineer · Cloud & Automation Enthusiast
 
-I build useful digital products and the automated infrastructure that keeps them reliable.
+I’m a Junior DevOps Engineer passionate about building reliable, automated, and scalable systems. I enjoy connecting development and operations through CI/CD, containers, cloud infrastructure, and infrastructure as code.
 
-Currently pursuing a Licence in DevOps, I’m focused on CI/CD automation, cloud infrastructure, containerization, and full-stack development.
-
-- 📍 Based in **Casablanca, Morocco**
+- 🌍 Based in **Morocco 🇲🇦**
 - 🌐 Portfolio: [elbargui.vercel.app](https://elbargui.vercel.app/)
 - ✉️ Email: [Barguim99@gmail.com](mailto:Barguim99@gmail.com)
-- 🚀 Currently focused on **DevOps, cloud infrastructure, and reliable deployments**
-- 🧠 Currently learning **Kubernetes, Terraform, AWS, and DevSecOps**
-- 🤝 Open to **DevOps opportunities and open-source collaborations**
+- 🚀 Currently building: **Cloud CI/CD Pipelines**
+- 🧠 Currently learning: **Kubernetes, Terraform & AWS**
+- 🤝 Open to collaborating on **Open Source DevOps projects**
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=27E627&background=0D1117&center=true&vCenter=true&width=700&lines=%3E+Initializing+DevOps+Pipeline...;%3E+Automating+Cloud+Infrastructure...;%3E+Building+CI%2FCD+Pipelines...;%3E+Deploying+Containers+to+Kubernetes...;%3E+System+Stable.+Ready+to+Code!+%F0%9F%9A%80" alt="DevOps Terminal Animation" />
+</p>
 
-I am a Junior Full Stack Developer and DevOps student based in Casablanca, Morocco.
+## 🛠️ DevOps & Cloud
 
-I am currently pursuing a Licence in DevOps at High Tech School, building on my Specialized Technician diploma in Digital Development from OFPPT.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,grafana,prometheus,git,bash,python&perline=14" />
+</p>
 
-My work combines modern web development with DevOps practices such as CI/CD automation, Docker deployments, AWS infrastructure, Jenkins pipelines, and Infrastructure as Code with Terraform.
+## 💻 Development
 
-## Core Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,laravel,mysql,mongodb,php,js,vscode,vim,nginx&perline=14" />
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- PHP
-- Laravel
-- WordPress
-- SQL
-- Python
-- Tailwind CSS
+## 📊 GitHub Activity
 
-## DevOps and Cloud
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBARGUIMOHAMED&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-- Linux
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- Jenkins
-- GitHub Actions
-- Ansible
-- Git
-- Bash
-- Nginx
-- Grafana
-- Prometheus
+## 🌐 Connect With Me
 
-## Education
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-elbargui-226613252">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/ELBARGUI02">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X / Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ELBARGUIMOHAMED">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+</p>
 
-- Licence in DevOps — High Tech School  
-  2026–2027
-
-- Specialized Technician in Digital Development — OFPPT  
-  Graduated with excellent results: **16.67**
-
-## Featured Projects
-
-### Baraka.ma
-
-A food waste reduction platform created for Morocco.
-
-Baraka.ma connects hotels, bakeries, restaurants, businesses, associations, and families to make surplus food available to people who need it.
-
-The platform is multilingual and built with modern full-stack technologies.
-
-**Technologies:**
-
-- Next.js
-- MongoDB Atlas
-- Mongoose
-- NextAuth.js
-- React
-- Vercel
-- i18n
-- RTL Arabic support
-
-- [View Portfolio Details](https://elbargui.vercel.app/projects/baraka)
-- [Visit Live Demo](https://baraka-edls.vercel.app/fr)
-
-## What I Offer
-
-### Website Development
-
-Responsive, production-ready websites and full-stack applications built around real business needs.
-
-### WordPress Development
-
-Fast, maintainable WordPress websites with clean content management and a professional visual identity.
-
-### DevOps and Cloud Delivery
-
-CI/CD pipelines, Docker deployments, AWS infrastructure, and reliable delivery workflows for modern applications.
-
-## My Approach
-
-I believe good engineering is about creating systems that are:
-
-- Reliable
-- Automated
-- Scalable
-- Maintainable
-- Easy to improve
-
-My goal is to keep learning, build meaningful projects, and help teams deliver better software with confidence.
-
-## Connect With Me
-
-- [GitHub](https://github.com/ELBARGUIMOHAMED)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-elbargui-226613252/)
-- [Instagram](https://www.instagram.com/_elbargui/)
-- [Portfolio](https://elbargui.vercel.app/)
-
----
-
-© 2026 Mohamed ElBARGUI. All rights reserved.
+<p align="center">
+  <i>“Automate everything, deploy confidently, and keep learning.”</i>
+</p>
