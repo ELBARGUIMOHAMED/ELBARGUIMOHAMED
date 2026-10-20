@@ -1,55 +1,57 @@
 # Hi 👋 I'm Mohamed ElBARGUI
 
-### Junior DevOps Engineer · Cloud & Automation Enthusiast
+### Junior DevOps Engineer | Cloud & Automation Enthusiast
 
-I’m a Junior DevOps Engineer passionate about building reliable, automated, and scalable systems. I enjoy connecting development and operations through CI/CD, containers, cloud infrastructure, and infrastructure as code.
+I’m a Junior DevOps Engineer passionate about automation, cloud infrastructure, containerization, and continuous delivery.
+
+I enjoy building reliable systems, improving development workflows, and connecting development with operations through modern DevOps practices.
 
 - 🌍 Based in **Morocco 🇲🇦**
 - 🌐 Portfolio: [elbargui.vercel.app](https://elbargui.vercel.app/)
 - ✉️ Email: [Barguim99@gmail.com](mailto:Barguim99@gmail.com)
-- 🚀 Currently building: **Cloud CI/CD Pipelines**
-- 🧠 Currently learning: **Kubernetes, Terraform & AWS**
-- 🤝 Open to collaborating on **Open Source DevOps projects**
+- 🚀 Building **automated CI/CD pipelines and cloud infrastructure**
+- 🧠 Learning **Kubernetes, Terraform, AWS, and DevSecOps**
+- 🤝 Interested in **open-source projects and DevOps collaborations**
+- ⚡ Focused on **automation, scalability, reliability, and continuous improvement**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=27E627&background=0D1117&center=true&vCenter=true&width=700&lines=%3E+Initializing+DevOps+Pipeline...;%3E+Automating+Cloud+Infrastructure...;%3E+Building+CI%2FCD+Pipelines...;%3E+Deploying+Containers+to+Kubernetes...;%3E+System+Stable.+Ready+to+Code!+%F0%9F%9A%80" alt="DevOps Terminal Animation" />
-</p>
+## DevOps and Cloud
 
-## 🛠️ DevOps & Cloud
+- Linux
+- Docker
+- Kubernetes
+- AWS
+- Terraform
+- Ansible
+- Jenkins
+- GitHub Actions
+- Grafana
+- Prometheus
+- Git
+- Bash
+- Python
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,grafana,prometheus,git,bash,python&perline=14" />
-</p>
+## Programming and Web Development
 
-## 💻 Development
+- JavaScript
+- React
+- PHP
+- Laravel
+- MySQL
+- MongoDB
+- Nginx
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,laravel,mysql,mongodb,php,js,vscode,vim,nginx&perline=14" />
-</p>
+## Current Goals
 
-## 📊 GitHub Activity
+- Build production-ready CI/CD pipelines
+- Improve my Kubernetes and cloud architecture skills
+- Automate infrastructure with Terraform
+- Contribute to open-source DevOps projects
+- Learn and apply DevSecOps best practices
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELBARGUIMOHAMED&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBARGUIMOHAMED&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## Connect With Me
 
-## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mohamed-elbargui-226613252)
+- [GitHub](https://github.com/ELBARGUIMOHAMED)
+- [X / Twitter](https://x.com/ELBARGUI02)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-elbargui-226613252">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/ELBARGUI02">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X / Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ELBARGUIMOHAMED">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>“Automate everything, deploy confidently, and keep learning.”</i>
-</p>
+> Automate repetitive tasks, build reliable systems, and keep learning.
